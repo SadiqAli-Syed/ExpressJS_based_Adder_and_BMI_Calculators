@@ -22,4 +22,4 @@ app.post("/", (req, res)=> {
     res.send(html);
 })
 
-app.listen(3000)
+app.listen(3000);
